@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="3%" align="left" src="./img/header.png">
+ <img width="3%" align="left" src="./img/header-left.png">
  KAZE
  <img width="3%" align="right" src="./img/header-right.png">
 </h1>
