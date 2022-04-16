@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaze-k&show_icons=true&theme=aura) -->
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaze-k&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaze-k&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
 </p>
