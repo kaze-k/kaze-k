@@ -1,10 +1,7 @@
-<!-- <p>
- <img align="left" width="5%" src="./img/header.png"> 
-</p> -->
 <h1 align="center">
  <img width="3%" align="left" src="./img/header.png">
  KAZE
- <img width="3%" align="right" src="">
+ <img width="3%" align="right" src="./img/header-right.png">
 </h1>
 <p align="center">
  <img align="center" width="100%" border-radius="25" src="./img/anime.gif">
