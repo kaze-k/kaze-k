@@ -9,5 +9,3 @@
     <img width="10%" src="./img/anime.gif">
   </div>
 </div>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=kaze-k&theme=dracula">
