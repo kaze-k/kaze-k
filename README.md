@@ -6,6 +6,6 @@
     <img width="3%" align="right" src="./img/header-right.png">
   </h1>
   <div align="center">
-    <img width="10%" src="./img/anime.gif">
+    <img width="20%" src="./img/anime-2.gif">
   </div>
 </div>
