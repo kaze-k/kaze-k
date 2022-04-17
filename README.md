@@ -1,5 +1,3 @@
-<img src="https://activity-graph.herokuapp.com/graph?username=kaze-k&theme=dracula">
-
 <div>
   <a href="https://github.com/kaze-k/kaze-k"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kaze-k&show_icons=true&theme=panda&include_all_commits=true&count_private=true" /></a>
   <h1 align="center">
@@ -12,3 +10,4 @@
   </div>
 </div>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=kaze-k&theme=dracula">
