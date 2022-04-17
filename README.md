@@ -8,7 +8,7 @@
     <img width="3%" align="right" src="./img/header-right.png">
   </h1>
   <div align="center">
-    <img width="10%" src="./img/fox.gif">
+    <img width="10%" src="./img/anime.gif">
   </div>
 </div>
 
