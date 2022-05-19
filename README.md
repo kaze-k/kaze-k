@@ -10,7 +10,7 @@
     <img width="3%" align="right" src="./img/header-right.svg">
   </h1>
   
-  <!--  gif图片  -->
+  <!--  内容  -->
   <div align="center">
     <img width="20%" src="./img/anime-2.gif">
   </div>
