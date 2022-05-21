@@ -7,5 +7,5 @@
   
 <!--  内容  -->
 <div align="center">
-  <img src="./img/anime-2.gif">
+  <img width="125px" align="right" src="./img/anime-1.gif">
 </div>
